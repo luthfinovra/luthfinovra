@@ -12,7 +12,7 @@
 
 - 🗃️ You can also find me at : [Leetcode](https://leetcode.com/luthfinovra/)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/luthfinovra?theme=dark&extension=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/luthfinovra?theme=dark)
 <!---
 luthfinovra/luthfinovra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
