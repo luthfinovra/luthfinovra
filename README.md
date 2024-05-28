@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luthfinovra
 - 👀 I’m interested in programming, motorsport, football, and a lot of other thing
 - 🌱 I’m currently learning to improve my skills
-- 📫 You can reach me at : lutvinovra@gmail.com
+- 📫 You can reach me at : luthfinovra19@gmail.com
 
 <a href="https://github.com/luthfinovra">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luthfinovra&theme=dark" />
