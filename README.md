@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @luthfinovra
 - 👀 I’m interested in programming, motorsport, football, and a lot of other thing
 - 🌱 I’m currently learning to improve my skills
-- 📫 You can reach me at : luthfinovra19@gmail.com
+- 🌃 Explore my personal website here: [Website](https://nvr-luthfi.vercel.app/)
+- 📫 You can reach me at : [Email](mailto:luthfinovra19@gmail.com)
 - 🗃️ You can also find me at : [Leetcode](https://leetcode.com/luthfinovra/)
 
 <a href="https://github.com/luthfinovra">
